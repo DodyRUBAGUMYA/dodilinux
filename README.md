@@ -1,2 +1,2 @@
-# dodilinux
+# linux
 study linux
